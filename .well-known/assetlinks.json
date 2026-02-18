@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kitty717.twa",
+    "sha256_cert_fingerprints": ["04:B1:86:DA:A6:FB:B5:D1:80:6A:2D:2E:32:9D:A1:AF:0B:42:66:F4:B0:19:B2:E5:37:34:C3:C2:57:D0:4E:C9"]
+  }
+}]
